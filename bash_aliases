@@ -1,0 +1,7 @@
+alias dup="docker-compose up"
+alias ddown="docker-compose down"
+alias dshow="docker ps -a"
+alias assets="cd ~/Documents/Unity\ Projects/Trial1/Assets"
+alias distort="python3 /home/prab/Documents/fun/TextUtils/distort.py"
+alias shrug="python3 /home/prab/Documents/fun/TextUtils/shrug.py"
+alias pydepend="pip install -r /home/prab/Documents/fun/python_dependencies.txt"
